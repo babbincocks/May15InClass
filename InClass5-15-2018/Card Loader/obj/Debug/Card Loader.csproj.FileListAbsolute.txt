@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\bin\Debug\Card Loader.exe.config
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\bin\Debug\Card Loader.exe
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\bin\Debug\Card Loader.pdb
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card Loader.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card_Loader.Form1.resources
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card_Loader.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card Loader.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card Loader.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card Loader.exe
+C:\Users\Cyberadmin\Desktop\InClass5-15-2018\Card Loader\obj\Debug\Card Loader.pdb
